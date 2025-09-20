@@ -1746,7 +1746,10 @@ export default function JapaneseFlashcardApp() {
   }
 
   const startOver = () => {
-    startSession(selectedSection)
+    // Force shuffle for restart - shuffle all sections including vowels
+    const originalCards = vocabularyData[selectedSection]
+    const shuffledCards = shuffleArray(originalCards)
+    startSession(selectedSection, shuffledCards)
   }
 
   const goHome = () => {
@@ -1953,9 +1956,9 @@ export default function JapaneseFlashcardApp() {
                   onClick={startOver}
                   className="w-full bg-primary hover:bg-primary/90 text-primary-foreground text-sm"
                 >
-                  🔁 Start Over
+                  🔀 Shuffle & Restart
                 </Button>
-                <p className="text-xs text-muted-foreground mt-1">Restart this entire section from the beginning</p>
+                <p className="text-xs text-muted-foreground mt-1">Shuffle cards and restart this section</p>
               </div>
               <div>
                 <Button onClick={goHome} variant="outline" className="w-full bg-transparent text-sm">
