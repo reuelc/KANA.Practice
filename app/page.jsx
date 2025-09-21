@@ -14,6 +14,7 @@ const vocabularyData = {
       example: "あり",
       exampleRomanji: "ari",
       exampleEnglish: "ant",
+      mnemonic: "Looks like an apple with a leaf on top",
     },
     {
       japanese: "い",
@@ -22,6 +23,7 @@ const vocabularyData = {
       example: "いぬ",
       exampleRomanji: "inu",
       exampleEnglish: "dog",
+      mnemonic: "Looks like two i's (sticks) leaning on each other",
     },
     {
       japanese: "う",
@@ -30,6 +32,7 @@ const vocabularyData = {
       example: "うみ",
       exampleRomanji: "umi",
       exampleEnglish: "sea",
+      mnemonic: "Looks like the letter 'u' with a hook - or someone saying 'oo'",
     },
     {
       japanese: "え",
@@ -38,6 +41,7 @@ const vocabularyData = {
       example: "えき",
       exampleRomanji: "eki",
       exampleEnglish: "station",
+      mnemonic: "An exotic bird with a long tail",
     },
     {
       japanese: "お",
@@ -46,6 +50,7 @@ const vocabularyData = {
       example: "おはな",
       exampleRomanji: "ohana",
       exampleEnglish: "flower",
+      mnemonic: "Like 'oh!' with mouth wide open - circular shape",
     },
   ],
   "Hiragana - K Sounds": [
@@ -56,6 +61,7 @@ const vocabularyData = {
       example: "かみ",
       exampleRomanji: "kami",
       exampleEnglish: "paper",
+      mnemonic: "A karate chop cutting through",
     },
     {
       japanese: "き",
@@ -64,6 +70,7 @@ const vocabularyData = {
       example: "きつね",
       exampleRomanji: "kitsune",
       exampleEnglish: "fox",
+      mnemonic: "A key with teeth at the bottom",
     },
     {
       japanese: "く",
@@ -72,6 +79,7 @@ const vocabularyData = {
       example: "くま",
       exampleRomanji: "kuma",
       exampleEnglish: "bear",
+      mnemonic: "A cooking spoon or ladle",
     },
     {
       japanese: "け",
@@ -80,6 +88,7 @@ const vocabularyData = {
       example: "けん",
       exampleRomanji: "ken",
       exampleEnglish: "sword",
+      mnemonic: "A kettle with steam coming out",
     },
     {
       japanese: "こ",
@@ -88,6 +97,7 @@ const vocabularyData = {
       example: "こども",
       exampleRomanji: "kodomo",
       exampleEnglish: "child",
+      mnemonic: "Two commas stacked together",
     },
   ],
   "Hiragana - S Sounds": [
@@ -98,6 +108,7 @@ const vocabularyData = {
       example: "さくら",
       exampleRomanji: "sakura",
       exampleEnglish: "cherry blossom",
+      mnemonic: "Someone bowing and saying 'sorry'",
     },
     {
       japanese: "し",
@@ -106,6 +117,7 @@ const vocabularyData = {
       example: "しろ",
       exampleRomanji: "shiro",
       exampleEnglish: "white",
+      mnemonic: "A shell or sea creature",
     },
     {
       japanese: "す",
@@ -114,6 +126,7 @@ const vocabularyData = {
       example: "すし",
       exampleRomanji: "sushi",
       exampleEnglish: "sushi",
+      mnemonic: "A sun with rays going sideways",
     },
     {
       japanese: "せ",
@@ -122,6 +135,7 @@ const vocabularyData = {
       example: "せかい",
       exampleRomanji: "sekai",
       exampleEnglish: "world",
+      mnemonic: "A sewing needle with thread",
     },
     {
       japanese: "そ",
@@ -130,6 +144,7 @@ const vocabularyData = {
       example: "そら",
       exampleRomanji: "sora",
       exampleEnglish: "sky",
+      mnemonic: "A sock or serpent zigzagging",
     },
   ],
   "Hiragana - T Sounds": [
@@ -140,6 +155,7 @@ const vocabularyData = {
       example: "たまご",
       exampleRomanji: "tamago",
       exampleEnglish: "egg",
+      mnemonic: "Like a table with one leg",
     },
     {
       japanese: "ち",
@@ -148,6 +164,7 @@ const vocabularyData = {
       example: "ちいさい",
       exampleRomanji: "chiisai",
       exampleEnglish: "small",
+      mnemonic: "A cheerleader raising arms",
     },
     {
       japanese: "つ",
@@ -156,6 +173,7 @@ const vocabularyData = {
       example: "つき",
       exampleRomanji: "tsuki",
       exampleEnglish: "moon",
+      mnemonic: "A tsunami wave",
     },
     {
       japanese: "て",
@@ -164,6 +182,7 @@ const vocabularyData = {
       example: "て",
       exampleRomanji: "te",
       exampleEnglish: "hand",
+      mnemonic: "A telephone pole with wire",
     },
     {
       japanese: "と",
@@ -172,6 +191,7 @@ const vocabularyData = {
       example: "とり",
       exampleRomanji: "tori",
       exampleEnglish: "bird",
+      mnemonic: "A tornado swirl",
     },
   ],
   "Hiragana - N Sounds": [
@@ -182,6 +202,7 @@ const vocabularyData = {
       example: "なまえ",
       exampleRomanji: "namae",
       exampleEnglish: "name",
+      mnemonic: "A naughty person with arms crossed, head bent",
     },
     {
       japanese: "に",
@@ -190,6 +211,7 @@ const vocabularyData = {
       example: "にほん",
       exampleRomanji: "nihon",
       exampleEnglish: "Japan",
+      mnemonic: "A knee bent",
     },
     {
       japanese: "ぬ",
@@ -198,6 +220,7 @@ const vocabularyData = {
       example: "ぬいぐるみ",
       exampleRomanji: "nuigurumi",
       exampleEnglish: "stuffed animal",
+      mnemonic: "Noodle on chopsticks",
     },
     {
       japanese: "ね",
@@ -206,6 +229,7 @@ const vocabularyData = {
       example: "ねこ",
       exampleRomanji: "neko",
       exampleEnglish: "cat",
+      mnemonic: "A cat's tail - cats say 'nyan'",
     },
     {
       japanese: "の",
@@ -214,6 +238,7 @@ const vocabularyData = {
       example: "のみもの",
       exampleRomanji: "nomimono",
       exampleEnglish: "drink",
+      mnemonic: "No entry sign (prohibition symbol)",
     },
   ],
   "Hiragana - H Sounds": [
@@ -224,6 +249,7 @@ const vocabularyData = {
       example: "はな",
       exampleRomanji: "hana",
       exampleEnglish: "flower",
+      mnemonic: "Person ha-ha laughing with arms up",
     },
     {
       japanese: "ひ",
@@ -232,6 +258,7 @@ const vocabularyData = {
       example: "ひ",
       exampleRomanji: "hi",
       exampleEnglish: "fire/sun",
+      mnemonic: "A person saying 'hee hee' with a smile",
     },
     {
       japanese: "ふ",
@@ -240,6 +267,7 @@ const vocabularyData = {
       example: "ふゆ",
       exampleRomanji: "fuyu",
       exampleEnglish: "winter",
+      mnemonic: "Mt. Fuji with snow on top",
     },
     {
       japanese: "へ",
@@ -248,6 +276,7 @@ const vocabularyData = {
       example: "へや",
       exampleRomanji: "heya",
       exampleEnglish: "room",
+      mnemonic: "A helicopter rotor blade",
     },
     {
       japanese: "ほ",
@@ -256,6 +285,7 @@ const vocabularyData = {
       example: "ほん",
       exampleRomanji: "hon",
       exampleEnglish: "book",
+      mnemonic: "A house with chimney and cross",
     },
   ],
   "Hiragana - M Sounds": [
@@ -266,6 +296,7 @@ const vocabularyData = {
       example: "まち",
       exampleRomanji: "machi",
       exampleEnglish: "town",
+      mnemonic: "A mammal nursing (loops like breasts)",
     },
     {
       japanese: "み",
@@ -274,6 +305,7 @@ const vocabularyData = {
       example: "みず",
       exampleRomanji: "mizu",
       exampleEnglish: "water",
+      mnemonic: "Number 3 + 1 = 'mi' (三 = san/three in Japanese)",
     },
     {
       japanese: "む",
@@ -282,6 +314,7 @@ const vocabularyData = {
       example: "むし",
       exampleRomanji: "mushi",
       exampleEnglish: "insect",
+      mnemonic: "A moo-cow's face",
     },
     {
       japanese: "め",
@@ -290,6 +323,7 @@ const vocabularyData = {
       example: "め",
       exampleRomanji: "me",
       exampleEnglish: "eye",
+      mnemonic: "An eye (me in Japanese = 目)",
     },
     {
       japanese: "も",
@@ -298,6 +332,7 @@ const vocabularyData = {
       example: "もり",
       exampleRomanji: "mori",
       exampleEnglish: "forest",
+      mnemonic: "A monster with curly tongue",
     },
   ],
   "Hiragana - Y/R/W Sounds": [
@@ -308,6 +343,7 @@ const vocabularyData = {
       example: "やま",
       exampleRomanji: "yama",
       exampleEnglish: "mountain",
+      mnemonic: "A yacht sailing",
     },
     {
       japanese: "ゆ",
@@ -316,6 +352,7 @@ const vocabularyData = {
       example: "ゆき",
       exampleRomanji: "yuki",
       exampleEnglish: "snow",
+      mnemonic: "A fish hook - 'you' can catch fish",
     },
     {
       japanese: "よ",
@@ -324,6 +361,7 @@ const vocabularyData = {
       example: "よる",
       exampleRomanji: "yoru",
       exampleEnglish: "night",
+      mnemonic: "Yo-yo on a string",
     },
     {
       japanese: "ら",
@@ -332,6 +370,7 @@ const vocabularyData = {
       example: "らいねん",
       exampleRomanji: "rainen",
       exampleEnglish: "next year",
+      mnemonic: "A raccoon standing",
     },
     {
       japanese: "り",
@@ -340,6 +379,7 @@ const vocabularyData = {
       example: "りんご",
       exampleRomanji: "ringo",
       exampleEnglish: "apple",
+      mnemonic: "A river flowing down",
     },
     {
       japanese: "る",
@@ -348,6 +388,7 @@ const vocabularyData = {
       example: "るすばん",
       exampleRomanji: "rusuban",
       exampleEnglish: "house-sitting",
+      mnemonic: "A rooster's profile",
     },
     {
       japanese: "れ",
@@ -356,6 +397,7 @@ const vocabularyData = {
       example: "れいぞうこ",
       exampleRomanji: "reizouko",
       exampleEnglish: "refrigerator",
+      mnemonic: "A refuse/trash bin tipped over",
     },
     {
       japanese: "ろ",
@@ -364,6 +406,7 @@ const vocabularyData = {
       example: "ろく",
       exampleRomanji: "roku",
       exampleEnglish: "six",
+      mnemonic: "A robot with antenna",
     },
     {
       japanese: "わ",
@@ -372,6 +415,7 @@ const vocabularyData = {
       example: "わたし",
       exampleRomanji: "watashi",
       exampleEnglish: "I/me",
+      mnemonic: "Waffle with syrup dripping",
     },
     {
       japanese: "を",
@@ -380,6 +424,7 @@ const vocabularyData = {
       example: "を",
       exampleRomanji: "wo",
       exampleEnglish: "object particle",
+      mnemonic: "Like わ but with an extra 'wow' loop",
     },
     {
       japanese: "ん",
@@ -388,6 +433,7 @@ const vocabularyData = {
       example: "にほん",
       exampleRomanji: "nihon",
       exampleEnglish: "Japan",
+      mnemonic: "A nose in profile - or someone saying 'mmm'",
     },
   ],
   "Katakana - Vowels": [
@@ -398,6 +444,7 @@ const vocabularyData = {
       example: "アメリカ",
       exampleRomanji: "amerika",
       exampleEnglish: "America",
+      mnemonic: "A-frame ladder",
     },
     {
       japanese: "イ",
@@ -406,6 +453,7 @@ const vocabularyData = {
       example: "イタリア",
       exampleRomanji: "itaria",
       exampleEnglish: "Italy",
+      mnemonic: "Two i's (like Roman numeral II)",
     },
     {
       japanese: "ウ",
@@ -414,6 +462,7 @@ const vocabularyData = {
       example: "ウール",
       exampleRomanji: "uuru",
       exampleEnglish: "wool",
+      mnemonic: "Ooh! Arms reaching up",
     },
     {
       japanese: "エ",
@@ -422,6 +471,7 @@ const vocabularyData = {
       example: "エレベーター",
       exampleRomanji: "erebeetaa",
       exampleEnglish: "elevator",
+      mnemonic: "Elevator doors opening",
     },
     {
       japanese: "オ",
@@ -430,6 +480,7 @@ const vocabularyData = {
       example: "オレンジ",
       exampleRomanji: "orenji",
       exampleEnglish: "orange",
+      mnemonic: "Ocean with three waves",
     },
   ],
   "Katakana - K Sounds": [
@@ -440,6 +491,7 @@ const vocabularyData = {
       example: "カメラ",
       exampleRomanji: "kamera",
       exampleEnglish: "camera",
+      mnemonic: "Karate chop/knife cutting",
     },
     {
       japanese: "キ",
@@ -448,6 +500,7 @@ const vocabularyData = {
       example: "キーボード",
       exampleRomanji: "kiiboodo",
       exampleEnglish: "keyboard",
+      mnemonic: "Key with notches",
     },
     {
       japanese: "ク",
@@ -456,6 +509,7 @@ const vocabularyData = {
       example: "クラス",
       exampleRomanji: "kurasu",
       exampleEnglish: "class",
+      mnemonic: "A bird's beak saying 'coo'",
     },
     {
       japanese: "ケ",
@@ -464,6 +518,7 @@ const vocabularyData = {
       example: "ケーキ",
       exampleRomanji: "keeki",
       exampleEnglish: "cake",
+      mnemonic: "A K without the vertical line",
     },
     {
       japanese: "コ",
@@ -472,6 +527,7 @@ const vocabularyData = {
       example: "コーヒー",
       exampleRomanji: "koohii",
       exampleEnglish: "coffee",
+      mnemonic: "Two corner pieces",
     },
   ],
   "Katakana - S Sounds": [
@@ -482,6 +538,7 @@ const vocabularyData = {
       example: "サラダ",
       exampleRomanji: "sarada",
       exampleEnglish: "salad",
+      mnemonic: "Samurai with hat cross-section",
     },
     {
       japanese: "シ",
@@ -490,6 +547,7 @@ const vocabularyData = {
       example: "シャツ",
       exampleRomanji: "shatsu",
       exampleEnglish: "shirt",
+      mnemonic: "Shell with horizontal ridges (シ points right →)",
     },
     {
       japanese: "ス",
@@ -498,6 +556,7 @@ const vocabularyData = {
       example: "スポーツ",
       exampleRomanji: "supootsu",
       exampleEnglish: "sports",
+      mnemonic: "Suction cup or swing",
     },
     {
       japanese: "セ",
@@ -506,6 +565,7 @@ const vocabularyData = {
       example: "セーター",
       exampleRomanji: "seetaa",
       exampleEnglish: "sweater",
+      mnemonic: "Seven with top cut off",
     },
     {
       japanese: "ソ",
@@ -514,6 +574,7 @@ const vocabularyData = {
       example: "ソファ",
       exampleRomanji: "sofa",
       exampleEnglish: "sofa",
+      mnemonic: "Sock hanging (ソ starts high, points left ←)",
     },
   ],
   "Katakana - T Sounds": [
@@ -524,6 +585,7 @@ const vocabularyData = {
       example: "タクシー",
       exampleRomanji: "takushii",
       exampleEnglish: "taxi",
+      mnemonic: "Table top view",
     },
     {
       japanese: "チ",
@@ -532,6 +594,7 @@ const vocabularyData = {
       example: "チーズ",
       exampleRomanji: "chiizu",
       exampleEnglish: "cheese",
+      mnemonic: "Cheerleader (looks like 千 = 1000)",
     },
     {
       japanese: "ツ",
@@ -540,6 +603,7 @@ const vocabularyData = {
       example: "ツアー",
       exampleRomanji: "tsuaa",
       exampleEnglish: "tour",
+      mnemonic: "Tsunami (ツ points up ↑)",
     },
     {
       japanese: "テ",
@@ -548,6 +612,7 @@ const vocabularyData = {
       example: "テレビ",
       exampleRomanji: "terebi",
       exampleEnglish: "television",
+      mnemonic: "Television antenna",
     },
     {
       japanese: "ト",
@@ -556,6 +621,7 @@ const vocabularyData = {
       example: "トマト",
       exampleRomanji: "tomato",
       exampleEnglish: "tomato",
+      mnemonic: "Totem pole",
     },
   ],
   "Katakana - N Sounds": [
@@ -566,6 +632,7 @@ const vocabularyData = {
       example: "ナイフ",
       exampleRomanji: "naifu",
       exampleEnglish: "knife",
+      mnemonic: "Naughty plus sign",
     },
     {
       japanese: "ニ",
@@ -574,6 +641,7 @@ const vocabularyData = {
       example: "ニュース",
       exampleRomanji: "nyuusu",
       exampleEnglish: "news",
+      mnemonic: "Two knees (like number 2)",
     },
     {
       japanese: "ヌ",
@@ -582,6 +650,7 @@ const vocabularyData = {
       example: "ヌードル",
       exampleRomanji: "nuudoru",
       exampleEnglish: "noodle",
+      mnemonic: "Noodles slurped up",
     },
     {
       japanese: "ネ",
@@ -590,6 +659,7 @@ const vocabularyData = {
       example: "ネクタイ",
       exampleRomanji: "nekutai",
       exampleEnglish: "necktie",
+      mnemonic: "Net for catching",
     },
     {
       japanese: "ノ",
@@ -598,6 +668,7 @@ const vocabularyData = {
       example: "ノート",
       exampleRomanji: "nooto",
       exampleEnglish: "notebook",
+      mnemonic: "Note - a single stroke slash",
     },
   ],
   "Katakana - H Sounds": [
@@ -608,6 +679,7 @@ const vocabularyData = {
       example: "ハンバーガー",
       exampleRomanji: "hanbaagaa",
       exampleEnglish: "hamburger",
+      mnemonic: "Ha-ha laughing (^v^)",
     },
     {
       japanese: "ヒ",
@@ -616,6 +688,7 @@ const vocabularyData = {
       example: "ヒーター",
       exampleRomanji: "hiitaa",
       exampleEnglish: "heater",
+      mnemonic: "Heel and toe dancing",
     },
     {
       japanese: "フ",
@@ -624,6 +697,7 @@ const vocabularyData = {
       example: "フォーク",
       exampleRomanji: "fooku",
       exampleEnglish: "fork",
+      mnemonic: "Fumbling to catch something",
     },
     {
       japanese: "ヘ",
@@ -632,6 +706,7 @@ const vocabularyData = {
       example: "ヘルメット",
       exampleRomanji: "herumetto",
       exampleEnglish: "helmet",
+      mnemonic: "Same as hiragana - helicopter blade",
     },
     {
       japanese: "ホ",
@@ -640,6 +715,7 @@ const vocabularyData = {
       example: "ホテル",
       exampleRomanji: "hoteru",
       exampleEnglish: "hotel",
+      mnemonic: "Holy cross with extras",
     },
   ],
   "Katakana - M Sounds": [
@@ -650,6 +726,7 @@ const vocabularyData = {
       example: "マスク",
       exampleRomanji: "masuku",
       exampleEnglish: "mask",
+      mnemonic: "Math plus and minus stacked",
     },
     {
       japanese: "ミ",
@@ -658,6 +735,7 @@ const vocabularyData = {
       example: "ミルク",
       exampleRomanji: "miruku",
       exampleEnglish: "milk",
+      mnemonic: "Missiles shooting (3 arrows)",
     },
     {
       japanese: "ム",
@@ -666,6 +744,7 @@ const vocabularyData = {
       example: "ムービー",
       exampleRomanji: "muubii",
       exampleEnglish: "movie",
+      mnemonic: "Moo-cow horns",
     },
     {
       japanese: "メ",
@@ -674,6 +753,7 @@ const vocabularyData = {
       example: "メール",
       exampleRomanji: "meeru",
       exampleEnglish: "email",
+      mnemonic: "Measuring X marks the spot",
     },
     {
       japanese: "モ",
@@ -682,6 +762,7 @@ const vocabularyData = {
       example: "モニター",
       exampleRomanji: "monitaa",
       exampleEnglish: "monitor",
+      mnemonic: "More (three horizontal lines)",
     },
   ],
   "Katakana - Y/R/W Sounds": [
@@ -692,6 +773,7 @@ const vocabularyData = {
       example: "ヤード",
       exampleRomanji: "yaado",
       exampleEnglish: "yard",
+      mnemonic: "Yacht mast",
     },
     {
       japanese: "ユ",
@@ -700,6 +782,7 @@ const vocabularyData = {
       example: "ユニフォーム",
       exampleRomanji: "yunifomu",
       exampleEnglish: "uniform",
+      mnemonic: "You (letter U with hook)",
     },
     {
       japanese: "ヨ",
@@ -708,6 +791,7 @@ const vocabularyData = {
       example: "ヨーグルト",
       exampleRomanji: "yooguruto",
       exampleEnglish: "yogurt",
+      mnemonic: "Yo-yo (three strings)",
     },
     {
       japanese: "ラ",
@@ -716,6 +800,7 @@ const vocabularyData = {
       example: "ラジオ",
       exampleRomanji: "rajio",
       exampleEnglish: "radio",
+      mnemonic: "Raven perched",
     },
     {
       japanese: "リ",
@@ -724,6 +809,7 @@ const vocabularyData = {
       example: "リモコン",
       exampleRomanji: "rimokon",
       exampleEnglish: "remote control",
+      mnemonic: "Reed (two vertical sticks)",
     },
     {
       japanese: "ル",
@@ -732,6 +818,7 @@ const vocabularyData = {
       example: "ルール",
       exampleRomanji: "ruuru",
       exampleEnglish: "rule",
+      mnemonic: "Root curving down",
     },
     {
       japanese: "レ",
@@ -740,6 +827,7 @@ const vocabularyData = {
       example: "レストラン",
       exampleRomanji: "resutoran",
       exampleEnglish: "restaurant",
+      mnemonic: "Rectangular L-shape",
     },
     {
       japanese: "ロ",
@@ -748,6 +836,7 @@ const vocabularyData = {
       example: "ロボット",
       exampleRomanji: "robotto",
       exampleEnglish: "robot",
+      mnemonic: "Robot mouth (square)",
     },
     {
       japanese: "ワ",
@@ -756,6 +845,7 @@ const vocabularyData = {
       example: "ワイン",
       exampleRomanji: "wain",
       exampleEnglish: "wine",
+      mnemonic: "Waffle iron (looks like 7)",
     },
     {
       japanese: "ヲ",
@@ -764,6 +854,7 @@ const vocabularyData = {
       example: "ヲ",
       exampleRomanji: "wo",
       exampleEnglish: "object particle",
+      mnemonic: "Rare, like ワ with extra stroke",
     },
     {
       japanese: "ン",
@@ -772,6 +863,7 @@ const vocabularyData = {
       example: "パン",
       exampleRomanji: "pan",
       exampleEnglish: "bread",
+      mnemonic: "Like a needle or slash (different from ソ)",
     },
   ],
   "JLPT N5 Kanji": [
@@ -782,6 +874,7 @@ const vocabularyData = {
       example: "一人",
       exampleRomanji: "hitori",
       exampleEnglish: "one person",
+      mnemonic: "ONE horizontal line - literally the number one",
     },
     {
       japanese: "二",
@@ -790,6 +883,7 @@ const vocabularyData = {
       example: "二人",
       exampleRomanji: "futari",
       exampleEnglish: "two people",
+      mnemonic: "TWO horizontal lines stacked - literally the number two",
     },
     {
       japanese: "三",
@@ -798,6 +892,7 @@ const vocabularyData = {
       example: "三つ",
       exampleRomanji: "mittsu",
       exampleEnglish: "three things",
+      mnemonic: "THREE horizontal lines stacked - literally the number three",
     },
     {
       japanese: "四",
@@ -886,6 +981,7 @@ const vocabularyData = {
       example: "今日",
       exampleRomanji: "kyou",
       exampleEnglish: "today",
+      mnemonic: "Picture of the SUN - a circle with a line through the middle",
     },
     {
       japanese: "月",
@@ -894,6 +990,7 @@ const vocabularyData = {
       example: "来月",
       exampleRomanji: "raigetsu",
       exampleEnglish: "next month",
+      mnemonic: "Crescent MOON shape on the left side of the character",
     },
     {
       japanese: "火",
@@ -910,6 +1007,7 @@ const vocabularyData = {
       example: "水曜日",
       exampleRomanji: "suiyoubi",
       exampleEnglish: "Wednesday",
+      mnemonic: "Streams of WATER flowing - the center line is like a river",
     },
     {
       japanese: "木",
@@ -1078,6 +1176,7 @@ const vocabularyData = {
       example: "日本人",
       exampleRomanji: "nihonjin",
       exampleEnglish: "Japanese person",
+      mnemonic: "Looks like a person walking with two legs spread apart",
     },
     {
       japanese: "男",
@@ -1278,6 +1377,7 @@ const vocabularyData = {
       example: "山",
       exampleRomanji: "yama",
       exampleEnglish: "mountain",
+      mnemonic: "Three MOUNTAIN peaks rising up from the ground",
     },
     {
       japanese: "川",
@@ -1566,6 +1666,7 @@ const vocabularyData = {
       example: "大きい",
       exampleRomanji: "ookii",
       exampleEnglish: "big",
+      mnemonic: "A person (人) with arms stretched out wide to show BIG",
     },
     {
       japanese: "小",
@@ -1574,6 +1675,7 @@ const vocabularyData = {
       example: "小さい",
       exampleRomanji: "chiisai",
       exampleEnglish: "small",
+      mnemonic: "A person with arms close to their body - SMALL and compact",
     },
     {
       japanese: "高",
@@ -2026,6 +2128,12 @@ export default function JapaneseFlashcardApp() {
                     <p className="text-2xl sm:text-3xl font-bold text-card-foreground">{currentCard?.japanese}</p>
                     <p className="text-lg sm:text-xl">{currentCard?.romanji}</p>
                   </div>
+                  {currentCard?.mnemonic && (
+                    <div className="mt-4 p-3 bg-secondary/20 rounded-lg border border-secondary/30">
+                      <p className="text-xs text-secondary font-medium mb-2">💡 Memory Helper:</p>
+                      <p className="text-sm text-card-foreground">{currentCard.mnemonic}</p>
+                    </div>
+                  )}
                   {currentCard?.example && (
                     <div className="mt-4 p-3 bg-muted/30 rounded-lg border border-primary/20">
                       <p className="text-xs text-primary font-medium mb-2">Example Usage:</p>
